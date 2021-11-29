@@ -15,7 +15,7 @@ class Persian_date
       return date("Y-m-d",strtotime("-1 days"));
   }
   public function thisWeek(){
-      
+      return "This Week";
   }
 }
 
