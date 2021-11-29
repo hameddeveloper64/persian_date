@@ -1,0 +1,18 @@
+{
+    "name": "hameddeveloper64/persain_date",
+    "description": "usefull library for persain date",
+    "type": "library",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Hamed Developer",
+            "email": "hamed.developer.64@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hameddeveloper64\\": "src/"
+        }
+    },
+    "require": {}
+}
