@@ -1,6 +1,7 @@
 <p align="center"> # Persian date manager
 <br/>
 <img src="https://img.shields.io/github/issues/hameddeveloper64/persian_date?style=for-the-badge">
+<img src="https://img.shields.io/github/license/hameddeveloper64/persian_date">
  </p>
 
  ## Short description
