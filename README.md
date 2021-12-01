@@ -1,4 +1,7 @@
-<p align="center"> # Persian date manager </p>
+<p align="center"> # Persian date manager
+<br/>
+<img src="https://img.shields.io/github/issues/hameddeveloper64/persian_date?style=for-the-badge">
+ </p>
 
  ## Short description
  A library for manage persian date
